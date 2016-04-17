@@ -1,5 +1,5 @@
 # australian-rivers
-Every mapped stream and river in Australia! Map created using data for 1.3 million streams from **Geoscience Australia GEODATA TOPO 250K** vector datasets. Many arid-zone rivers and streams in these maps are highly ephemeral, and may only flow once every few years or even decades. Streams are weighted by both ephemerality and heirarchy, with the highest weighting for major perennial rivers (i.e. Murray River). 
+Every mapped stream and river in Australia! Map created using data for 1.3 million streams from [Geoscience Australia GEODATA TOPO 250K](#data) vector datasets. Many arid-zone rivers and streams in these maps are highly ephemeral, and may only flow once every few years or even decades. Streams are weighted by both ephemerality and heirarchy, with the highest weighting for major perennial rivers (i.e. Murray River). 
 
 
 ### Entire Australia ###
@@ -23,7 +23,7 @@ Every mapped stream and river in Australia! Map created using data for 1.3 milli
 ### Goldfields-Esperance, Western Australia ###
 ![Entire Australia](streams_white_sub6.jpg)
 
-#### Dataset ####
+#### <a name="data">Source dataset</a> ####
 Geoscience Australia (2006). Geodata topo 250k series 3. _Geoscience Australia, Canberra._ Available at: http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_63999
 
 
