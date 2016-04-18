@@ -3,25 +3,25 @@ Every mapped stream and river in Australia! Map created with [QGIS](http://www.q
 
 
 ### Entire Australia ###
-![Entire Australia](streams_white.jpg)
+![Entire Australia](Figures/streams_white.jpg)
 
 ### North-west Queensland ###
-![Entire Australia](streams_white_sub1.jpg)
+![Entire Australia](Figures/streams_white_sub1.jpg)
 
 ### North-east Murray-Darling Basin ###
-![Entire Australia](streams_white_sub2.jpg)
+![Entire Australia](Figures/streams_white_sub2.jpg)
 
 ### Top End, Northern Territory ###
-![Entire Australia](streams_white_sub3.jpg)
+![Entire Australia](Figures/streams_white_sub3.jpg)
 
 ### North-west Queensland ###
-![Entire Australia](streams_white_sub4.jpg)
+![Entire Australia](Figures/streams_white_sub4.jpg)
 
 ### Central Queensland ###
-![Entire Australia](streams_white_sub5.jpg)
+![Entire Australia](Figures/streams_white_sub5.jpg)
 
 ### Goldfields-Esperance, Western Australia ###
-![Entire Australia](streams_white_sub6.jpg)
+![Entire Australia](Figures/streams_white_sub6.jpg)
 
 #### <a name="data">Source dataset</a> ####
 Geoscience Australia (2006). Geodata topo 250k series 3. _Geoscience Australia, Canberra._ Available at: http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_63999
