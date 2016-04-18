@@ -1,6 +1,9 @@
 # australian-rivers
 Every mapped stream and river in Australia! Map created with [QGIS](http://www.qgis.org/en/site/) using data for 1.3 million streams from [Geoscience Australia GEODATA TOPO 250K](#data) vector datasets. Many arid-zone rivers and streams in these maps are highly ephemeral, and may only flow once every few years or even decades. Streams are weighted by both ephemerality (perennial or non-perennial) and hierarchy (minor or major), with the highest weighting for major perennial rivers (i.e. Murray River). 
 
+**Email:** r.bishop-taylor@unsw.edu.au
+**Twitter:** [@robbibt](https://twitter.com/robbibt)
+
 
 ### Entire Australia ###
 ![Entire Australia](Figures/streams_white.jpg)
