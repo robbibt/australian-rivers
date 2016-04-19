@@ -27,6 +27,6 @@ Every mapped stream and river in Australia! Map created with [QGIS](http://www.q
 ![Entire Australia](Figures/streams_white_sub6.jpg)
 
 #### <a name="data">Source dataset</a> ####
-Geoscience Australia (2006). Geodata topo 250k series 3. _Geoscience Australia, Canberra._ Available at: http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_63999
+Geoscience Australia (2006). Geodata topo 250k series 3. _Geoscience Australia, Canberra._ Available at http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_63999 under a **Creative Commons Attribution 4.0 International Licence**. Full terms at https://creativecommons.org/licenses/by/4.0/.
 
 
