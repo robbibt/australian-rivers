@@ -19,18 +19,22 @@ As featured on:
 
 ### Entire Australia ###
 ![Entire Australia](Figures/streams_white.jpg)
+High resolution available at [EarthArtAustralia!](https://www.etsy.com/au/listing/276956274/every-mapped-stream-and-river-in?ref=related-1)
 
 ### North-west Queensland ###
 ![Entire Australia](Figures/streams_white_sub1.jpg)
+High resolution available at [EarthArtAustralia!](https://www.etsy.com/au/listing/290474033/streams-of-arid-australia-high?ref=shop_home_active_5)
 
 ### North-east Murray-Darling Basin ###
 ![Entire Australia](Figures/streams_white_sub2.jpg)
 
 ### Top End, Northern Territory ###
 ![Entire Australia](Figures/streams_white_sub3.jpg)
+High resolution available at [EarthArtAustralia!](https://www.etsy.com/au/listing/276968566/tropical-streams-in-australias-top-end?ref=shop_home_active_16)
 
 ### North-west Queensland ###
 ![Entire Australia](Figures/streams_white_sub4.jpg)
+High resolution available at [EarthArtAustralia!](https://www.etsy.com/au/listing/276969942/gulf-floodplains-in-queensland-australia?ref=shop_home_active_15)
 
 ### Central Queensland ###
 ![Entire Australia](Figures/streams_white_sub5.jpg)
